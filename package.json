@@ -1,14 +1,14 @@
 {
-  "name": "Olltv",
+  "name": "TEST APP",
   "date": "2015.05.26",
   "version": "1.5.10",
-  "description": "Video provider that allows Ukrainian users to watch HD movies, series, shows and live broadcasts via Internet.",
+  "description": "TEST APPLICATION",
   "author": {
-    "name": "StalkerApps"
+    "name": "tests app"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/StalkerApps/olltv.git"
+    "url": "https://github.com/HackArmen/stalker_mag.git"
   },
   "dependencies": {
     "code-proxy": "^1.2.21",
@@ -47,7 +47,7 @@
     "backgroundColor": "#233490",
     "name": "Olltv",
     "legacy": true,
-    "description": "Video provider that allows Ukrainian users to watch HD movies, series, shows and live broadcasts via Internet.",
+    "description": "test",
     "icons": {
       "paths": {
         "480": "img/480/",
